@@ -6,11 +6,10 @@
     box-sizing: border-box;
 }
 
-
 body{
     background-color: rgb(53, 53, 53);
     color: blanchedalmond;
-    min-width: 100vw;
+    min-width: 600px;
 }
 
 #head{
